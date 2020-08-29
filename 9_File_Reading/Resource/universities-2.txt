@@ -1,0 +1,3 @@
+University of Cambridge	Cambridge	1209	12220
+University of Oxford	Oxford	1096	11728
+Peking University	PKU	1898	15128

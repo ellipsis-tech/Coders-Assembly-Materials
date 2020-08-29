@@ -1,0 +1,3 @@
+apple & orange & pear
+banana & cherry & durian & mango & starfruit
+watermelon & peach

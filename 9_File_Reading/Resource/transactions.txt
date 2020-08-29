@@ -1,0 +1,9 @@
+25-03-2016	Popular	$21.30
+09-12-2016	NTUC FairPrice	$59.43
+08-01-2017	Shell Station	$47.56
+09-03-2017	SingTel	$31.50
+16-02-2017	Popular	$25.40
+08-01-2017	SingTel	$32.10
+21-12-2016	SIA	$546.90
+14-02-2017	Shaw Theatres	$24.30
+19-03-2017	NTUC FairPrice	$108.32

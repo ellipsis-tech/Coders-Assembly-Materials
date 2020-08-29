@@ -1,0 +1,6 @@
+National University of Singapore	NUS	1905	27972
+Nanyang Technological University	NTU	1981	24300
+Singapore Management University	SMU	2000	7827
+University of California, Berkeley	Berkeley	1868	29310
+Harvard University	Harvard	1636	6700
+University of California, Los Angeles	UCLA	1919	30873

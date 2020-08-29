@@ -1,0 +1,6 @@
+George Leung|Mobile|98987676
+Eric Wong|Home|67449908
+Michelle Lee|Mobile|96667777
+Eric Wong|Mobile|91234567
+Michelle Lee|Pager|88776655
+Michelle Lee|Fax|88776656
